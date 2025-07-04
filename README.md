@@ -1,5 +1,5 @@
 # 💫 About Me
-Full Stack Web Developer | Frontend & UI/UX Specialist  
+Full Stack Web Developer | Frontend Specialist  
 PHP, JavaScript, MySQL | Building Scalable Systems & Secure Websites  
 Open to Remote & Freelance Opportunities  
 
